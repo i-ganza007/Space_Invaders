@@ -81,6 +81,7 @@ Hyperparameter tuning table (template)
 | MLPolicy_4 | lr=0.0003, gamma=0.999, batch=12, epsilon_start=1.0, epsilon_end=0.08, epsilon_decay=0.25 | Observations (Mean Reward: 285.00 ± 0.00,Random Baseline: 124.00, Improvement: 161.00) |
 | MLPolicy_5 | lr=0.00015, gamma=0.98, batch=8, epsilon_start=1.0, epsilon_end=0.02, epsilon_decay=0.35 | Observations (Mean Reward: 227.00 ± 46.05, Random Baseline: 142.50, Improvement: 84.50) |
 
+Hyperparameter Tuning Results: Nhial Majok
 
 
 | Policy | Learning Rate (lr) | Gamma (γ) | Batch Size | Mean Reward | Std Dev | Improvement | Noted Behavior |
