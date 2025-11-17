@@ -84,7 +84,7 @@ Hyperparameter tuning table (template)
 
 
 
-<file_link path="C:\Users\HP\Downloads\Nhial_exp - Nhial_exp.tsv">Nhial_Majok_Hyperparameter_Results.tsv</file_link>
+
 
 Playing / Evaluation (play.py)
 ------------------------------
