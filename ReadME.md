@@ -84,6 +84,9 @@ Hyperparameter tuning table (template)
 
 
 
+[Nhial_exp (2).xlsx](https://github.com/user-attachments/files/23588832/Nhial_exp.2.xlsx)
+
+
 Playing / Evaluation (play.py)
 ------------------------------
 Main responsibilities for play.py:
